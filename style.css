@@ -1,6 +1,8 @@
 body{
 	background-repeat: no-repeat;
 	background-size: cover;
+	font-family: 'Exo 2', sans-serif;
+
 }
 .team{
 	padding-left: 1em;
@@ -28,4 +30,8 @@ table{
 }
 .bouton{
 	padding-top: 2em;
+}
+.bestou{
+	padding-top: 2em;
+	color: white;
 }
